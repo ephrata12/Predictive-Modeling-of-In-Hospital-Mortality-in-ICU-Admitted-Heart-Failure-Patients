@@ -23,7 +23,8 @@ RF_impute_df <- fread("RF_imputation_NEW.csv")
 
 ```{r, warning=FALSE}
 # Prepare the dataset by removing unwanted columns
-RF_complete_df <- subset(RF_impute_df, select = -c(deathtime, survival_time, LOS, Unnamed_0, V1, admittime, ID, group, tLOS, Anion_gap, subject_id))
+RF_complete_df <- subset(RF_impute_df, select = -c(deathtime, survival_time, LOS, Unnamed_0, V1,
+                                             admittime, ID, group, tLOS, Anion_gap, subject_id))
 
 # Convert to data.table
 RF_complete_dt <- as.data.table(RF_complete_df)

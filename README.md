@@ -19,3 +19,12 @@ This project applies predictive modeling techniques to identify significant clin
 
 ## Acknowledgments
 Special thanks to mentors Dr. Rahul Ladhania, Dr. Snigdha Panigrahi, and Dr. Mengbing Li for guidance. Supported by the BDSI program.
+
+## Collaborators
+
+This project was a collaborative effort by the following individuals:
+
+- **Ephrata Getachew**
+- **Peter Dunson**  
+- **Nate Stevenson**
+  

@@ -24,7 +24,7 @@ Special thanks to mentors Dr. Rahul Ladhania, Dr. Snigdha Panigrahi, and Dr. Men
 
 This project was a collaborative effort by the following individuals:
 
-- **Ephrata Getachew**
-- **Peter Dunson**  
-- **Nate Stevenson**
+- Ephrata Getachew
+- Peter Dunson  
+- Nate Stevenson
   
